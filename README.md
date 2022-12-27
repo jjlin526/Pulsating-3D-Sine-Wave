@@ -7,3 +7,8 @@
   * The fourth slider controls the camera zoom
 * The 3D sine wave is illuminated by blue and red point light sources and a directional light source
 * The colored confetti falls downwards and rotates at different angles, and resets at the top
+
+Live Demo: []()
+
+[![image](https://user-images.githubusercontent.com/114364831/209721193-ca370c26-4c41-44f6-bce0-2b97ad47f15e.png)]()
+
