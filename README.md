@@ -10,5 +10,4 @@
 
 Live Demo: [https://pulsating-3d-sine-wave.netlify.app/](https://pulsating-3d-sine-wave.netlify.app/)
 
-[![image](https://user-images.githubusercontent.com/114364831/209721193-ca370c26-4c41-44f6-bce0-2b97ad47f15e.png)](https://pulsating-3d-sine-wave.netlify.app/)
-
+[![pulsating-sine-wave-demo](https://user-images.githubusercontent.com/114364831/209721928-bddd8ba2-7da1-4b6f-8aeb-e3fd16086e94.jpg)](https://pulsating-3d-sine-wave.netlify.app/)
